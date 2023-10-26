@@ -1,7 +1,3 @@
-;;	Name: Kaleab Gessese
-;;	Class: CSc 314
-;;	Assign: 04
-;;	Due: 10/23/23
 ;;	Description: This is short assembly language program
 ;;				 Takes a Celcius(number) and converts it 
 ;;				 to Fahrenheit. So this is a Celcius to 
